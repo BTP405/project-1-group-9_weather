@@ -104,4 +104,4 @@
     phones, motivating us to create our own version.
 
 ## 7. License
-    - This project is licensed under the MIT License see -[link](https://opensource.org/license/mit)
+    - This project is licensed under the MIT License see - <a href="https://opensource.org/license/mit">link<a>
